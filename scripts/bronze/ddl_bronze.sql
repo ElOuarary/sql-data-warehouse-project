@@ -27,7 +27,7 @@ CREATE TABLE bronze.crm_prd_info (
     prd_nm VARCHAR(50),
     prd_cost FLOAT,
     prd_line CHAR(1),
-	prd_start_dt DATE,
+    prd_start_dt DATE,
     prd_end_dt DATE
 );
 
